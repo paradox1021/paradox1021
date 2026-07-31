@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Brendan 👋
 
-<!--
-**paradox1021/paradox1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **[Astrolabe Apps](https://astrolabeapps.com)** — building focused SaaS products for real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **PetCompass** — emergency veterinary services discovery app with geolocation and aggregated data to help people find urgent pet care fast.
+- **ListrApp** — a multi-platform reseller listing tool that automates cross-posting listings across marketplaces.
+
+## 🛠️ Tech I work with
+
+- **Languages:** Python, TypeScript/JavaScript, SQL, Bash
+- **Backend:** FastAPI, PostgreSQL, PostGIS
+- **Infra & DevOps:** Railway, Vercel, Doppler, Docker
+- **APIs:** Google Maps, geolocation & data pipelines
+
+## 📫 Reach me
+
+- 🌐 Website: [astrolabeapps.com](https://astrolabeapps.com)
+- 🐦 Twitter/X: [@kavanaughdev](https://twitter.com/kavanaughdev)
+
+---
+
+*Full-stack builder shipping products end to end — from data pipelines to deploy.*
